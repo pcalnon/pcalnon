@@ -1,6 +1,8 @@
 # Paul Calnon
 
+<!---
 ## Hi there 👋
+--->
 
 **Principal DevOps Engineer, Manager at Alarm.com**  
 Lawrence, Kansas, United States
