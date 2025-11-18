@@ -20,7 +20,7 @@ Lawrence, Kansas, United States
 - Puppet
 - Azure
 - Wavefront
-- Graphana
+- Grafana
 - Telegraf
 - Agentic AI
 
