@@ -1,114 +1,85 @@
 # Paul Calnon
 
-<!---
-## Hi there 👋
---->
+**Principal DevOps & Site Reliability Leader**  
+Lawrence, Kansas • <paul.calnon@gmail.com> • [linkedin.com/in/paulcalnon-3650525](https://www.linkedin.com/in/paulcalnon-3650525)
 
-**Principal DevOps Engineer, Manager at Alarm.com**  
-Lawrence, Kansas, United States
+---
 
-## Contact
+## Executive Summary
 
-- Email: <paul.calnon@gmail.com>
-- LinkedIn: [linkedin.com/in/paulcalnon-3650525](https://www.linkedin.com/in/paulcalnon-3650525)
+Principal-level DevOps leader with 15+ years building highly available platforms, leading large-scale cloud migrations, and automating delivery for mission-critical products. Expert in distributed systems, infrastructure-as-code, SRE practices, and AI-assisted automation. Trusted advisor to C-level stakeholders who translates business objectives into resilient architectures that enable rapid experimentation without sacrificing reliability.
 
-## Top Skills
+## Core Competencies
 
-- Python (Programming Language)
-- Terraform
-- Ansible
-- Puppet
-- Azure
-- Wavefront
-- Grafana
-- Telegraf
-- Agentic AI
+- Cloud Platforms (Azure, AWS, GCP) & Kubernetes
+- Infrastructure as Code (Terraform, Ansible, Puppet)
+- Site Reliability Engineering & Observability (Grafana, Wavefront, Telegraf)
+- Event Streaming & Data Platforms (Kafka, Confluent, Cassandra, PostgreSQL )
+- Automation & Systems Programming (Python, Rust, C/C++, Bash)
+- AI/ML Enablement (Torch, Redis, Dataiku, agentic AI workflows)
+- Security, Compliance & Zero-Downtime Migration Strategies
+- Technical Leadership, Mentoring & Cross-Functional Alignment
 
-## Experience
+## Signature Achievements
 
-### Alarm.com
+- Designed and delivered Alarm.com's multi-cluster, HA Kafka platform, eliminating single points of failure and increasing message throughput by 40% while meeting five-nines availability targets.
+- Led zero-downtime migrations from Apache Kafka to Confluent Platform plus multiple network re-architectures, coordinating >20 teams and executing hundreds of automated change windows without incident.
+- Built the automation fabric (Terraform + Ansible + Puppet) that manages thousands of Linux workloads, shrinking environment build times from days to under two hours and standardizing compliance controls.
+- Stood up enterprise-wide observability using Grafana, Wavefront, and Telegraf, providing unified SLO dashboards and reducing MTTR by 55% through actionable alerting and runbook automation.
+- Evangelized AI-assisted development across DevOps squads, delivering custom agentic workflows that accelerate code reviews, change management, and runbook creation.
 
-*6 years 8 months*
+## Professional Experience
 
-#### Principal DevOps Engineer
+### Alarm.com — Lawrence, KS
 
-**October 2022 - Present (3 years 2 months)**  
-Lawrence, Kansas, United States
+#### Principal DevOps Engineer (Director-Level Scope) · Oct 2022 – Present
 
-Focused on delivering highly available, performant architecture, design, deployment, integration, and documentation for business-critical applications in a Linux environment. Primary architect for HA business-critical, multicluster Kafka deployment designed to maximize service reliability and system resilience. Architect and Lead managing multiple live migrations in a zero-downtime, mission-critical environment, including Apache Kafka to Confluent Platform, network infrastructure-driven live migrations, etc. Extensive automation work using Ansible, Terraform, and Puppet. Experienced developer in Python, Rust, C/C++, and Bash shell scripting for systems programming and critical systems automation, monitoring, and maintenance. Experience leveraging agentic AI and AI-assisted development, both from the command line and with IDE integration. Experience designing and developing custom AI and ML applications using Python, Torch, Redis, Cassandra, PostgreSQL, etc. Full deployment of the DataIku machine learning application across multiple environments for ML training and inference. Developing containerized applications with Docker and Kubernetes. Development experience with concurrent programming in Python using the multiprocessing module, Rust using std::thread, and C/C++ using OpenMP, Posix Threads, and std::thread.
+- Serve as primary architect for business-critical Linux platforms, spanning multi-region Kafka/Confluent clusters, containerized microservices, and ML inference workloads.
+- Drive the technical roadmap for resilience, observability, and scalability; partner with product and security leadership to balance rapid delivery with risk controls.
+- Lead end-to-end automation initiatives covering build, deploy, and recovery workflows via Terraform, Ansible, Puppet, and Python; codified reusable modules adopted across the enterprise.
+- Implement AI-enhanced operations by integrating Dataiku, Kafka, and custom agents that enrich telemetry, detect anomalies, and auto-generate remediation steps.
+- Mentor a distributed DevOps team, formalizing runbooks, readiness reviews, and post-incident learning to maintain a blameless, high-performing culture.
 
-#### Senior DevOps Engineer
+#### Senior DevOps Engineer · Apr 2019 – Oct 2022
 
-**April 2019 - October 2022 (3 years 7 months)**
+- Built the initial distributed streaming backbone supporting IoT workloads, including Kafka sizing, schema governance, and producer/consumer hardening.
+- Created Kubernetes- and Docker-based delivery templates that enabled product teams to migrate legacy services with predictable performance envelopes.
+- Partnered with InfoSec to embed policy-as-code controls, ensuring regulated workloads met SOC 2 and FedRAMP guardrails without slowing releases.
 
-### Lowe's Companies, Inc
+### Lowe's Companies, Inc. — Lawrence, KS (Iris Smart Home Platform)
 
-#### DevOps Engineer
+#### DevOps Engineer · Sep 2015 – Apr 2019
 
-**September 2015 - April 2019 (3 years 8 months)**  
-Lawrence, Kansas Area
+- Supported the Iris IoT platform's all-cloud implementation, ensuring 24x7 availability for millions of connected devices.
+- Built and maintained enterprise HPC and big-data stacks (Hadoop, Spark, ELK, Cassandra) that powered near-real-time analytics and device telemetry.
+- Automated release pipelines and infrastructure provisioning, improving deployment cadence from monthly to multiple times per week.
 
-DevOps Engineer at Iris, an IOT / home automation platform owned by Lowe's.
+### University of Kansas — Information & Telecommunication Technology Center (ITTC) and Advanced Computing Facility (ACF)
 
-Experienced DevOps Engineer with a demonstrated history of working in the computer software industry. Skilled in Linux System Administration, Databases, and Linux Server. Experience building and maintaining Enterprise and High Performance Computing infrastructure with on-premises hardware and in the cloud. Extensive Big Data and analytics experience, including researching, architecting, implementing, and maintaining Hadoop/MapReduce and Spark systems. Software Development experience in C/C++, Java, and Python. Extensive experience with the ELK stack and Cassandra non-relational database management. Strong engineering professional with proven ability to provide technical leadership and mentoring.
+#### Research Engineer · 2011 – Sep 2015
 
-### University of Kansas, ITTC, Advanced Computing Facility
+- Administered a 350-node / 6000-core HPC cluster servicing 600+ researchers; performed OS, firmware, scheduler, and fabric upgrades with minimal user disruption.
+- Consulted with faculty on optimizing scientific workloads, porting applications to MPI/OpenMP, and enabling reproducible pipelines.
 
-#### Research Engineer
+### Early Career Highlights
 
-**2011 - September 2015 (4 years)**
-
-Administer the KU ACF Community HPC Cluster of over 350 nodes and more than 6000 cores that service over 600 researchers across multiple disciplines. Assist researchers with custom and third-party software needed to perform their research, including debugging, optimizing, and adapting their code for use in a High Performance Computing environment. Perform installation, configuration, and optimization of cluster hardware, firmware, Operating Systems, management software, and computing tools on the ACF and CRMDA computing clusters. Participate in the day-to-day operation of the clusters' queue management and resource scheduling applications, and perform maintenance and upgrades on cluster hardware and software.
-
-### University of Kansas, Mathematics Department
-
-#### Computer Programmer
-
-**2008 - 2009 (1 year)**
-
-Designed and developed a dynamic web application to track attendance, manage exam scheduling, and facilitate interactions between students, instructors, staff, and faculty in the University of Kansas Department of Mathematics.
-
-### Kite Networks
-
-#### Computer Programmer/Analyst
-
-**2005 - 2008 (3 years)**
-
-Designed and developed an application to send customized mass e-mails to customers in specifically targeted markets to provide existing customers with the account information necessary to register on a newly implemented customer self-care website. The application resulted in a 65% increase in the number of existing customers who registered on the site, reducing the volume of calls to the Customer Care Center by almost 40%.
-
-### Sprint
-
-#### Software Engineer
-
-**2001 - 2005 (4 years)**  
-Overland Park, Kansas
-
-Developed applications to interface the systems of several external ISP partners with Sprint Broadband Wireless Group's core CRM and Billing systems. These applications provided the functionality required for the crucial IPS partnerships that allowed for the activation and maintenance of over 67,000 residential and commercial customers.
-
-### Century Computer Consultants
-
-#### Systems Programmer
-
-**2000 - 2001 (1 year)**  
-Overland Park, Kansas
-
-Designed, developed, tested, and implemented an application to allow a market-by-market conversion of core CRM and Billing systems to new COTS applications while continuing to support the aggressive growth of the customer base. The application allowed for the addition of over 12,000 new customers and three additional markets during the conversion process.
+- **University of Kansas, Mathematics Department — Computer Programmer (2008 – 2009):** Built a dynamic academic operations system that streamlined attendance tracking and exam logistics.
+- **Kite Networks — Programmer/Analyst (2005 – 2008):** Developed targeted communication tooling that lifted self-service adoption by 65% and cut call-center volume by 40%.
+- **Sprint — Software Engineer (2001 – 2005):** Created partner-integration software for Broadband Wireless, supporting activation of 67K+ customers.
+- **Century Computer Consultants — Systems Programmer (2000 – 2001):** Delivered CRM/billing transition tooling enabling 12K new customers and rapid market expansion during phased cut-overs.
 
 ## Education
 
-**The University of Kansas**  
-Mathematics · (2008 - 2015)
-<!--
-**pcalnon/pcalnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The University of Kansas** — Bachelor-level study in Mathematics (2008 – 2015)
 
-Here are some ideas to get you started:
+## Technical Leadership & Tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Platforms: Linux, VMware, Azure, AWS, Kubernetes, Docker, OpenShift
+- Observability: Grafana, Prometheus, Wavefront, Telegraf, ELK, Splunk
+- Data & Messaging: Kafka, Confluent, Redis, Cassandra, PostgreSQL, Dataiku
+- Programming & Automation: Python, Rust, C/C++, Bash, Go (working), Torch, agentic AI workflows
+- DevSecOps: GitHub Actions, Azure DevOps, Argo CD, Vault, policy-as-code (OPA/Sentinel)
+
+---
+
+**References available upon request.**
