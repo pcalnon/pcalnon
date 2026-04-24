@@ -11,28 +11,43 @@ Principal-level DevOps leader with 15+ years building highly available platforms
 
 ## Core Competencies
 
-- Cloud Platforms (Azure, AWS, GCP) & Kubernetes
+- Cloud Platforms (Azure, AWS) & Kubernetes
 - Infrastructure as Code (Terraform, Ansible, Puppet)
 - Site Reliability Engineering & Observability (Grafana, Wavefront, Telegraf)
-- Event Streaming & Data Platforms (Kafka, Confluent, Cassandra, PostgreSQL )
+- Event Streaming & Data Platforms (Kafka, Confluent, Cassandra, PostgreSQL)
+- Distributed Systems & Microservices Architecture (FastAPI, Dash, WebSockets, REST, Docker Compose)
+- Concurrent & Parallel Programming for Data-Parallel Workloads
 - Automation & Systems Programming (Python, Rust, C/C++, Bash)
-- AI/ML Enablement (Torch, Redis, Dataiku, agentic AI workflows)
+- AI/ML Enablement (Torch, Redis, Dataiku, custom neural network training platforms, agentic AI workflows)
 - Security, Compliance & Zero-Downtime Migration Strategies
 - Technical Leadership, Mentoring & Cross-Functional Alignment
 
 ## Signature Achievements
 
 - Designed and delivered Alarm.com's multi-cluster, HA Kafka platform, eliminating single points of failure and increasing message throughput by 40% while meeting five-nines availability targets.
-- Led zero-downtime migrations from Apache Kafka to Confluent Platform plus multiple network re-architectures, coordinating >20 teams and executing hundreds of automated change windows without incident.
-- Built the automation fabric (Terraform + Ansible + Puppet) that manages thousands of Linux workloads, shrinking environment build times from days to under two hours and standardizing compliance controls.
-- Stood up enterprise-wide observability using Grafana, Wavefront, and Telegraf, providing unified SLO dashboards and reducing MTTR by 55% through actionable alerting and runbook automation.
+- Led zero-downtime migrations from Apache Kafka to Confluent Platform plus multiple network re-architectures, coordinating multiple teams and executing hundreds of automated change windows without incident.
+- Built the automation fabric (Terraform + Ansible + Puppet) that manages thousands of Linux workloads, shrinking environment build times and standardizing compliance controls.
+- Stood up enterprise-wide observability using Grafana, Wavefront, and Telegraf, providing unified SLO dashboards and reducing MTTR through actionable alerting and runbook automation.
 - Evangelized AI-assisted development across DevOps squads, delivering custom agentic workflows that accelerate code reviews, change management, and runbook creation.
+
+## Open Source
+
+### JuniperML — github.com/pcalnon/juniper-ml
+
+#### Founder & Lead Engineer · Oct 2025 – Present
+
+- Founded, architected, and developed an open-source Cascade Correlation (CasCor) neural network research platform, evolving the project from a single-file CasCor implementation into a multi-service distributed system spanning eight coordinated repositories.
+- Designed and built a FastAPI/Dash web frontend (juniper-canopy) providing real-time monitoring and interactive management of live neural network training sessions.
+- Implemented concurrent, data-parallel CasCor training that saturates local compute, and extended capacity horizontally via a distributed worker protocol (juniper-cascor-worker) that pools remote clients into a unified training pipeline.
+- Engineered a hybrid WebSocket + REST messaging layer, routing traffic by frequency, latency, and payload-size characteristics to balance low-latency telemetry against bulk data exchange.
+- Packaged the full stack to run as native local services or as containerized workloads orchestrated by Kubernetes or Docker Compose (juniper-deploy), supporting single-laptop experimentation through multi-node cluster deployments.
+- Stack: Python, FastAPI, Dash, WebSockets, REST, Docker, Docker Compose, Kubernetes.
 
 ## Professional Experience
 
 ### Alarm.com — Lawrence, KS
 
-#### Principal DevOps Engineer (Director-Level Scope) · Oct 2022 – Oct 2025
+#### Principal DevOps Engineer (Manager-Level Scope) · Oct 2022 – Oct 2025
 
 - Serve as primary architect for business-critical Linux platforms, spanning multi-region Kafka/Confluent clusters, containerized microservices, and ML inference workloads.
 - Drive the technical roadmap for resilience, observability, and scalability; partner with product and security leadership to balance rapid delivery with risk controls.
