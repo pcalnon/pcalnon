@@ -1,6 +1,6 @@
 # Paul Calnon
 
-**Principal DevOps & Site Reliability Leader**  
+**Principal DevOps, Software, & Site Reliability Leader**  
 Lawrence, Kansas • <paul.calnon@gmail.com> • [linkedin.com/in/paulcalnon-3650525](https://www.linkedin.com/in/paulcalnon-3650525) • [github.com/pcalnon](https://github.com/pcalnon)
 
 ---
