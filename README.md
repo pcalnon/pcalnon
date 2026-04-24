@@ -1,7 +1,7 @@
 # Paul Calnon
 
 **Principal DevOps & Site Reliability Leader**  
-Lawrence, Kansas • <paul.calnon@gmail.com> • [linkedin.com/in/paulcalnon-3650525](https://www.linkedin.com/in/paulcalnon-3650525)
+Lawrence, Kansas • <paul.calnon@gmail.com> • [linkedin.com/in/paulcalnon-3650525](https://www.linkedin.com/in/paulcalnon-3650525) • [github.com/pcalnon](https://github.com/pcalnon)
 
 ---
 
@@ -32,7 +32,7 @@ Principal-level DevOps leader with 15+ years building highly available platforms
 
 ### Alarm.com — Lawrence, KS
 
-#### Principal DevOps Engineer (Director-Level Scope) · Oct 2022 – Present
+#### Principal DevOps Engineer (Director-Level Scope) · Oct 2022 – Oct 2025
 
 - Serve as primary architect for business-critical Linux platforms, spanning multi-region Kafka/Confluent clusters, containerized microservices, and ML inference workloads.
 - Drive the technical roadmap for resilience, observability, and scalability; partner with product and security leadership to balance rapid delivery with risk controls.
